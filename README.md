@@ -14,3 +14,8 @@ For the next 4 variables follow the guid from Twitter to get the API keys: https
 - SleepTime:2 - Time in seconds to sleep between API interogation (default is 2 to avoid being blocked by Twitter for too many interogations)
 - Verbose:1 - Shows on the console the data that will be written on the HTML file. 0 - disabled, 1 - enabled (default)
 
+Windows users:
+
+If you don`t have a Python development enviroment you can use the executable from "win" directory.
+Download the entire "win" directory, populate the file settings.conf with your credentials and informations and run the "friends-activitate.exe" file to generate the HTML report.
+Notice: You will need the .NET Framework 3.5 in order to run the executable.
